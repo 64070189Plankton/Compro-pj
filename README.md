@@ -14,7 +14,7 @@
 ## บทคัดย่อ
 [บทคัดย่อ](https://docs.google.com/document/d/1575zteZzP_FENITzbDJPqctsKCdelY6Fz1jM9UB8ilg/edit)
 ## วิดีโอนำเสนอ
-[วิดีโอนำเสนอ](https://youtu.be/hIxD1cD8pTI)
+[วิดีโอนำเสนอ]()
 ## โปสเตอร์
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
