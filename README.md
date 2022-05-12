@@ -17,4 +17,4 @@
 [วิดีโอนำเสนอ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ## โปสเตอร์
 
-12123211
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
