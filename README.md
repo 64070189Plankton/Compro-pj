@@ -1,4 +1,4 @@
-# EZ QUIZ GAME
+# EZ QUIZ GAME <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 ![จำนวนกล้วย](https://user-images.githubusercontent.com/88500591/167544150-55b1fd63-3fa7-47be-8e85-a71c16763120.png)
 ## วัตถุประสงค์
 > เพื่อความเพลิดเพลิน ความรู้ ความสนุก ความเครียด และนิทานสอนใจเอาไว้เตือนเรา
