@@ -16,4 +16,4 @@
 ## วิดีโอนำเสนอ
 [<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">](https://www.youtube.com/watch?v=hIxD1cD8pTI)
 ## โปสเตอร์
-![Poster]()
+![Poster](https://cdn.discordapp.com/attachments/800663077095342140/974324546092011520/Compro_Project.png)
