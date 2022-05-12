@@ -16,5 +16,4 @@
 ## วิดีโอนำเสนอ
 [<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">](https://www.youtube.com/watch?v=hIxD1cD8pTI)
 ## โปสเตอร์
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+![Poster]()
