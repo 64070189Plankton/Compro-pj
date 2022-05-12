@@ -14,7 +14,7 @@
 ## บทคัดย่อ
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> (https://docs.google.com/document/d/1575zteZzP_FENITzbDJPqctsKCdelY6Fz1jM9UB8ilg/edit)
 ## วิดีโอนำเสนอ
-[วิดีโอนำเสนอ](https://www.youtube.com/watch?v=hIxD1cD8pTI)
+[<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">](https://www.youtube.com/watch?v=hIxD1cD8pTI)
 ## โปสเตอร์
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
