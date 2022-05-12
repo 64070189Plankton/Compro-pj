@@ -2,7 +2,7 @@
 ![จำนวนกล้วย](https://user-images.githubusercontent.com/88500591/167544150-55b1fd63-3fa7-47be-8e85-a71c16763120.png)
 ## วัตถุประสงค์<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 > เพื่อความเพลิดเพลิน ความรู้ ความสนุก ความเครียด และนิทานสอนใจเอาไว้เตือนเรา
-## เหตุผลที่เลือก<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## เหตุผลที่เลือก<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="50" />
 > เพราะว่าสมาชิกในกลุ่มมีความสนใจอยากจะลองทำเกม และพัฒนาทักษะความรู้ที่เรียนมา
 ## ประโยชน์ของโปรเจคนี้<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 > ให้ความรู้ที่แบบว่าทุกคนรู้กันอยู่แล้วและก็ผ่านตากันมาแล้ว ซึ่งนำมาเป็นโจทย์ท้าทายผู้เล่น
