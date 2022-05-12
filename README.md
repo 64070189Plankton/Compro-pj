@@ -12,7 +12,7 @@
 ## EDITOR
 > VS code
 ## บทคัดย่อ
-[บทคัดย่อ](https://docs.google.com/document/d/1575zteZzP_FENITzbDJPqctsKCdelY6Fz1jM9UB8ilg/edit)
+[http://www.rangson.com/images/site%20messages/click2right.gif](https://docs.google.com/document/d/1575zteZzP_FENITzbDJPqctsKCdelY6Fz1jM9UB8ilg/edit)
 ## วิดีโอนำเสนอ
 [วิดีโอนำเสนอ](https://www.youtube.com/watch?v=hIxD1cD8pTI)
 ## โปสเตอร์
