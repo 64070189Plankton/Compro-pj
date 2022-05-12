@@ -12,7 +12,7 @@
 ## EDITOR<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 > VS code
 ## บทคัดย่อ<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="50" />
-[<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">](https://docs.google.com/document/d/1575zteZzP_FENITzbDJPqctsKCdelY6Fz1jM9UB8ilg/edit)
+[<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><<<<](https://docs.google.com/document/d/1575zteZzP_FENITzbDJPqctsKCdelY6Fz1jM9UB8ilg/edit)
 ## วิดีโอนำเสนอ<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 [<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">](https://www.youtube.com/watch?v=hIxD1cD8pTI)
 ## โปสเตอร์<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="50" />
